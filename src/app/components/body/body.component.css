@@ -1,0 +1,11 @@
+.container-conteudo {
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    padding-top: 5em;
+}
+
+.container-geral {
+    background-color: #111111;
+    height: 70vh;
+}
